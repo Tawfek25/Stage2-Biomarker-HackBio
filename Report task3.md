@@ -2,7 +2,7 @@
 
 ## **GithubRepo:**
 
-https://github.com/Logykh/hackbio-cancer-internship
+(https://github.com/Tawfek25/Stage2-Biomarker-HackBio)
 
 ## **Goal**
 
